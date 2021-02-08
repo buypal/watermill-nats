@@ -1,4 +1,4 @@
-module github.com/ThreeDotsLabs/watermill-nats
+module github.com/buypal/watermill-nats
 
 go 1.15
 
